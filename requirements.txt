@@ -18,5 +18,5 @@ six==1.16.0
 soupsieve==2.2.1
 toml==0.10.2
 tweepy==3.10.0
-urllib3==1.26.4
+urllib3==1.26.5
 wrapt==1.12.1
